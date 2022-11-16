@@ -13,7 +13,7 @@
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/nolove2005/BLACK-TIGER-WA--BOT-SL-MD-V3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vihangayt0/Astro-MD-V2)
 
 ---------------------------------   
 
