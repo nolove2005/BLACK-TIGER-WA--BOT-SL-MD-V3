@@ -13,22 +13,12 @@
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vihangayt0/Astro-MD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/nolove2005/BLACK-TIGER-WA--BOT-SL-MD-V3)
 
 ---------------------------------   
 
- ###  Developer : Vihanga-YT
+ ###  𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : 𝚂𝙻 𝚂𝙰𝙲𝙷𝙸𝚃𝙷
 
-## Thanks To
+## Thanks To👉Vihanga-YT
 
-##### ◉[@adiwajshing](https://github.com/adiwajshing/) for coded.
-
-##### ◉[@yusufusta](https://github.com/yusufusta/) for coded.
-
-##### ◉[@SamPandey001](https://github.com/SamPandey001) For session and multi file auth State.
-
-##### ◉[@sanuwaofficial](https://github.com/sanuwaofficial) for apk downloader and help. 
-
-##### ◉[@edm-official](https://github.com/edm-official) for base and help.
-
-##### ◉[@DarkMakerofc](https://github.com/DarkMakerofc) for help. 
+![Screenshot_20221023-150442_WhatsApp](https://user-images.githubusercontent.com/116479343/202252924-46ba4844-f2dc-4844-a0f8-d68c3bd78070.jpg)
